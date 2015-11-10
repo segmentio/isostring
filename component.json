@@ -2,7 +2,7 @@
   "name": "isostring",
   "repo": "segmentio/isostring",
   "description": "Decides whether a string matches an isodate format",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "isoformat",
     "iso8601",

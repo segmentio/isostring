@@ -1,6 +1,6 @@
 {
   "name": "isostring",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Decides whether a string is a valid isodate format",
   "keywords": [
     "isostring",
@@ -9,7 +9,10 @@
     "format"
   ],
   "author": "Segmentio <friends@segment.io>",
-  "repository": { "type": "git", "url": "git://github.com/segmentio/isostring.git" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/isostring.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
